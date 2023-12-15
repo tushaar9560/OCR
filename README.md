@@ -1,5 +1,4 @@
-# Image Storyteller 🖼️🗣️
-Image Storyteller is a project that aims to generate natural language captions for images. It uses a deep learning model called Blip-image-captioning-base to encode the visual features of an image and decode them into a meaningful sentence. The model is trained on the Flickr30k dataset, which contains 30,000 images and five captions for each image.
+# OCR
 
 
 
