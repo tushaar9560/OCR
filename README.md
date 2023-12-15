@@ -1,5 +1,5 @@
 # OCR
-
+It is in Initial phase, more changes need to be made.
 
 
 # Getting Started
@@ -7,8 +7,8 @@
 To get started with using this tool, you might want to clone or download the repository.
 
 ```bash
-git clone https://github.com/tushaar9560/Image_Captioning
-cd Image_Captioning
+git clone https://github.com/tushaar9560/OCR
+cd OCR
 ```
 
 # Requirements 📋
