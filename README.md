@@ -46,6 +46,3 @@ This project is open source and welcomes any contribution to fine-tune the model
 [![instagram](https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itstushaar1)
 [![telegram](https://img.shields.io/badge/telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://instagram.com/itstushaar1)
 [![email](https://img.shields.io/badge/email-0088cc?style=for-the-badge&logo=gmail&logoColor=white)](https://tushaar.sharma05@gmail.com)
-# License
-
-Image Storyteller is open-source software released under the MIT License.
