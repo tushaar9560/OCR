@@ -1,8 +1,7 @@
-gdown
-dataclasses
+pillow
 transformers
-datasets==2.13.1
-torch
 flask
+werkzeug
+torch
 
 -e .
